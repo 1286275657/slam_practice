@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/wangkai/桌面/slam_practice/ch4/useSophus/build",
+  "command": "/bin/g++-9   -I/usr/include/eigen3    -o CMakeFiles/useSophus.dir/useSophus.cpp.o -c /home/wangkai/桌面/slam_practice/ch4/useSophus/useSophus.cpp",
+  "file": "/home/wangkai/桌面/slam_practice/ch4/useSophus/useSophus.cpp"
+}
+]
